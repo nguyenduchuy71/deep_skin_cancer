@@ -1,0 +1,6 @@
+Data:   https://drive.google.com/drive/folders/1D0EWFEVBaHGAdgST52qrFXOAQUAVd-wM?usp=sharing
+Yolov5: https://drive.google.com/drive/folders/1zrYKK7F9iQFzm1xkAAFMcGAFzISMCpBS?usp=sharing
+Weight: https://drive.google.com/file/d/1ICft5pQc6Ih0lQCAaUDJzfWq_06Vi-Du/view?usp=sharing
+Link Deploy TensorflowJS: https://skin-caner-app.netlify.app/
+Link Code Web(React): https://github.com/nguyenduchuy71/app_deep_learning.git
+Link model convert to tensorflowJS: https://drive.google.com/drive/folders/1UHx4HBWS1HlzYeD2NJMe8G7yPIY2mMUL?usp=sharing
